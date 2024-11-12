@@ -1,7 +1,7 @@
 
 # ***Hello World! Welcome To My Profile***! 😀
 
-![My Info](https://img.shields.io/badge/Information-D14836?style=for-the-badge&logo=&logoColor=white)
+<h3 align="left">My Info:</h3>
 
 <ul>
 <li>📍  Portuguese</li>
