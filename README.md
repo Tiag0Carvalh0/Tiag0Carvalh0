@@ -3,7 +3,9 @@
 
 ![My Info](https://img.shields.io/badge/Information-D14836?style=for-the-badge&logo=&logoColor=white)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiag0carvalh0&label=Profile%20views&color=0e75b6&style=flat" alt="tiag0carvalh0" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiag0carvalh0" alt="tiag0carvalh0" /></a> </p>
 
 
 <ul>
