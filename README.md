@@ -28,7 +28,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/tiago carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiago carvalho" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tiago carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago carvalho" height="30" width="40" /></a>
+<a href="https://fb.com/tiago carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tiago carvalho" height="30" width="40" /></a>
+<a href="https://instagram.com/tiago carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiago carvalho" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pycho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pycho" height="30" width="40" /></a>
+<a href="https://discord.gg/P Y C H O" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="P Y C H O" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
