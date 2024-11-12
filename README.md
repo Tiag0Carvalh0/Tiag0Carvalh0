@@ -5,7 +5,7 @@
 
 <ul>
 <li>📍  Portuguese</li>
-<li>📚 Master Electrical and Computer Engineering  </li>
+<li>📚 Master Degree at Electrical and Computer Engineering  </li>
 <li>🏫 Instituto Politécnico do Cavado e do Ave  </li>
 <li>📎  3D Printing Enthusiast </li>
 <li>🏎️ F1 Fan - RedBullRacingTeam </li>
