@@ -38,8 +38,8 @@
 
 <h3 align="left">My Status:</h3>
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Tiag0Carvalh0/Tiag0Carvalh0/output/snake.svg" alt="Snake animation" />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiag0Carvalh0&langs_count=5&layout=compact)](https://github.com/Tiag0Carvalh0/github-readme-stats)
 
